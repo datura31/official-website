@@ -91,6 +91,14 @@ const members = [
     githubUrl: 'https://github.com/SS-YSY',
     blogUrl: 'https://ss-ysy.github.io/'
   },
+  {
+    name: 'datura31',
+    avatar: 'https://raw.githubusercontent.com/datura31/datura31.github.io/main/0062L4YMgy1gh041nyrq9j30mt0wt78i.jpg',
+    description: '月亮',
+    githubUrl: 'https://github.com/datura31',
+    blogUrl: 'https://datura31.gitee.io/'
+  },
+];
 ];
 
 export default members;
